@@ -10,6 +10,7 @@ A people-and-churches map of early Christian influencers: from Jesus through Apo
 ## How to view
 - On GitHub: open `docs/charts/lineage.md` (Mermaid renders inline).
 - As a site: enable GitHub Pages (main branch, `/docs`), then visit your Pages URL.
+- GitHub Pages
 
 ## Contributing
 See `CONTRIBUTING.md` for style, sources, and review rules.
