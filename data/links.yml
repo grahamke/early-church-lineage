@@ -1,0 +1,7 @@
+teacher_student:
+  - [clement_of_alexandria, origen]
+  - [origen, pamphilus]
+  - [pamphilus, eusebius_of_caesarea]
+person_church:
+  - [mark, alexandria_church]
+  - [clement_of_rome, rome_church]

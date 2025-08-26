@@ -1,0 +1,11 @@
+- id: origen
+  name: Origen
+  era: Ante-Nicene
+  dates: 185-254
+  learned_at: [alexandria_church, clement_of_alexandria]
+  taught_at: [alexandria_church, caesarea_church]
+  key_themes: [allegorical_exegesis, textual_criticism, spiritual_theology]
+  unity:
+  note: "defended catholicity; controversies later"
+  conversion: null
+  students: [pamphilus]

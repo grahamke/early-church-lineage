@@ -1,0 +1,7 @@
+- id: alexandria_church
+  name: Church of Alexandria
+  location: Alexandria, Egypt
+  founded: "~40s-60s"
+  apostolic_connection: "Mark via Peter"
+  distinctive: [catechetical_school, allegorical_exegesis]
+  produced: [pantaenus, clement_of_alexandria, origen, athanasius]
