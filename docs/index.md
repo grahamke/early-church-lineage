@@ -1,4 +1,5 @@
 # Early Christian Lineage
+{% include mermaid.html %}
 
 This project is a **visual and textual map of early Christian influencers** from the 1st to 6th centuries.  
 It traces the teacher–student relationships, church communities, and key teachings that shaped the early church.
