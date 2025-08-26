@@ -17,7 +17,7 @@ classDef postNicene fill:#AF7AC5,stroke:#4A235A,color:#fff;
 classDef church fill:#F2F4F4,stroke:#424949,color:#000;
 ```
 
-```
+```mermaid
 graph TD
 
 %% ---------- Legend ----------
