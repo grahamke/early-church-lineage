@@ -2,23 +2,10 @@
 
 > People and churches only; color-coded by role/era.
 
-```mermaid
-graph LR
-%% legend
-LEG_J[Jesus]:::jesus --> LEG_AP[Apostles]:::apostle --> LEG_AF[Apostolic Fathers]:::apostolicF --> LEG_APO[Apologists]:::apologist --> LEG_ANT[Ante Nicene]:::anteNicene --> LEG_NIC[Nicene]:::nicene --> LEG_POST[Post Nicene]:::postNicene --> LEG_CH[Churches]:::church
-%% styles
-classDef jesus fill:#FFD700,stroke:#7D6608,color:#000,font-weight:bold;
-classDef apostle fill:#5DADE2,stroke:#1B4F72,color:#fff;
-classDef apostolicF fill:#58D68D,stroke:#145A32,color:#000;
-classDef apologist fill:#F9E79F,stroke:#7D6608,color:#000;
-classDef anteNicene fill:#F5B041,stroke:#7E5109,color:#000;
-classDef nicene fill:#E74C3C,stroke:#641E16,color:#fff;
-classDef postNicene fill:#AF7AC5,stroke:#4A235A,color:#fff;
-classDef church fill:#F2F4F4,stroke:#424949,color:#000;
-```
+
 
 ```mermaid
-graph TD
+graph LR
 
 %% ---------- Legend ----------
 LEG_J[Jesus]:::jesus --> LEG_AP[Apostles]:::apostle --> LEG_AF[Apostolic Fathers]:::apostolicF --> LEG_APO[Apologists]:::apologist --> LEG_ANT[Ante Nicene]:::anteNicene --> LEG_NIC[Nicene]:::nicene --> LEG_POST[Post Nicene]:::postNicene --> LEG_CH[Churches]:::church
