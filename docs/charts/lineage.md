@@ -1,4 +1,5 @@
 # Early Christian Lineage Map
+{% include mermaid.html %}
 
 > People and churches only; color-coded by role/era.
 
